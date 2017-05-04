@@ -1,0 +1,54 @@
+body {
+	background-color: azure;
+}
+
+
+
+.contact-me {
+
+	padding-bottom: 25px;
+
+}
+
+.images {
+	padding-bottom: 25px;
+
+}
+
+
+.title {
+	color: grey;
+	text-align: center;
+
+}
+
+.list {
+
+	padding-bottom: 25px;
+
+
+}
+
+.link {
+
+	color: blue;
+
+}
+
+.link:hover {
+
+	color: green;
+
+}
+
+.link:hover:visited {
+
+	color: green;
+}
+
+
+.link:visited {
+
+	color: purple;
+}
+
